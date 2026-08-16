@@ -1,0 +1,2 @@
+Reclamo|Poliza|Danos|Deducible|PagoNeto|Estado
+SIN-001|POL-001|6000,00|600,00|5400,00|APROBADO CON CONDICION 404

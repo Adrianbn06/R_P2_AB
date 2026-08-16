@@ -1,0 +1,3 @@
+Poliza|Cliente|Ramo|Capital|Prima|Estado
+POL-001|Elkin Briones|Vehiculos|10000,00|598,58|INACTIVA
+POL-002|Donovan Galarraga|Incendio|1500000,00|89702,30|ACTIVA

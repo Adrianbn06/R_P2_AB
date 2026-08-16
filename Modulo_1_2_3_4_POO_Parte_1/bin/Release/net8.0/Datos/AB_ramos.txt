@@ -1,0 +1,5 @@
+VEH|Vehiculos
+INC|Incendio
+ROB|Robo
+ACC|Accidentes
+CAS|Casco de Buque

@@ -1,0 +1,8 @@
+1010|Cuentas por Cobrar Clientes|Deudora|Activo Corriente
+5020|Gasto de Reaseguro Cedido|Deudora|Gasto Operacional
+5030|Gasto por Siniestralidad|Deudora|Gasto Operacional
+2010|Reaseguradores por Pagar|Acreedora|Pasivo Corriente
+2020|Primas No Ganadas|Acreedora|Pasivo Diferido
+4010|Ingresos por Primas Emitidas|Acreedora|Ingresos Operacionales
+2030|Impuestos por Pagar|Acreedora|Pasivo Corriente
+2040|Reservas de Siniestros por Pagar|Acreedora|Pasivo Corriente

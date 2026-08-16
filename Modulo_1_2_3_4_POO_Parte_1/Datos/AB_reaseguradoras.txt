@@ -1,0 +1,6 @@
+1|Reaseguradora del Sur|1|0020|65|650000|25000000000
+2|Los Andes|2|0030|0|0|500000
+3|Briatore|2|0030|0|0|250000
+4|Reaseguradora del Pueblo|2|0030|50|100000|5000000
+5|Los Independientes|1|0020|15|50000|100000
+6|La Casa del Ecuador|3|0010|10|500000|0
